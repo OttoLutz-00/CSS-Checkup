@@ -1,0 +1,34 @@
+nav a{
+    color: rgb(44, 44, 44);
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 3%;
+    padding: 3%;
+}
+nav {
+    background-color: rgb(169, 219, 159);
+    padding: 5%;
+}
+
+.lists {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    
+}
+
+#important {
+    color: crimson;
+    text-decoration: rgb(255, 0, 0);
+    text-decoration-line: underline;
+}
+
+div#border {
+    border: 5px double black;
+}
+
+p {
+    border: 1px solid black;
+    width: 40%;
+    display: inline-block;
+}
